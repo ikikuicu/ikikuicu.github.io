@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ikikuicu.github.io/GEC/sitemap_index.txt
+Sitemap: https://ikikuicu.github.io/OKZ/sitemap_index.txt
+Sitemap: https://ikikuicu.github.io/PbH/sitemap_index.txt
+Sitemap: https://ikikuicu.github.io/pSC/sitemap_index.txt
